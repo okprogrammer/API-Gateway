@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "hystrix.command.fallbackcmd.execution",
+    "type": "java.lang.String",
+    "description": "A description for 'hystrix.command.fallbackcmd.execution'"
+  },
+  {
+    "name": "hystrix.command.default.fallback.isolation.semaphore.maxConcurrentRequests",
+    "type": "java.lang.String",
+    "description": "A description for 'hystrix.command.default.fallback.isolation.semaphore.maxConcurrentRequests'"
+  }
+]}
